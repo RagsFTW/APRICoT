@@ -1,2 +1,2 @@
 # APRICoT
- A Password Recon Integrity COmplexity Tool 
+ A Password Recon, Integrity, and COmplexity Tool 
