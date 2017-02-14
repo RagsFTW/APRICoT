@@ -3,7 +3,7 @@
 #Aaron Ragusa
 #2-13-2017
 
-input=/root/Desktop/Scripts/rockyou.txt
+input=/usr/share/wordlists/rockyou.txt
 inputlines=$(cat $input)
 
 count=$(cat $input | wc -l)
